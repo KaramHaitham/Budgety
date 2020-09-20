@@ -4,7 +4,7 @@
   "description": "personal budget app",
   "main": "index.html",
   "scripts": {
-    "start": "node index",
+    "start": "node index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Karam",
